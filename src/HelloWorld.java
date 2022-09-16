@@ -6,5 +6,6 @@ public class HelloWorld {
             System.out.println("Zeile 4");
             System.out.println("Zeile 5");
             System.out.println("Zeile 6"); //Strg + D
+            System.out.println("New Line");
     }
 }
